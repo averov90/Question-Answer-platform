@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg642"
+   height="138.25mm"
+   width="303.62mm"
+   version="1.0">
+  <metadata
+     id="metadata646">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path2"
+         d="M -12.929307,-8.2277408 L 1131.9021,-8.2277408 L 1131.9021,517.17228 L -12.929307,517.17228 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path8"
+     d="  M 218.4759,46.57489   L 218.4759,241.39604   L 472.80125,241.39604   L 472.80125,46.57489   L 218.4759,46.57489   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path10"
+     d="  M 218.4759,241.39604   L 472.80125,241.39604   L 472.80125,46.57489   L 218.4759,46.57489   L 218.4759,241.39604   z "
+     style="fill:none;stroke:#000000;stroke-width:6.2442675px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path12"
+     d="  M 112.91105,87.493208   C 112.91105,78.824695 88.080903,71.845808 57.447261,71.845808   C 26.740157,71.845808 1.9100112,78.824695 1.9100112,87.493208   C 1.9100112,96.088258 26.740157,103.06715 57.447261,103.06715   C 88.080903,103.06715 112.91105,96.088258 112.91105,87.493208   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path14"
+     d="  M 112.91105,87.493208   C 112.91105,78.824695 88.080903,71.845808 57.447261,71.845808   C 26.740157,71.845808 1.9100112,78.824695 1.9100112,87.493208   C 1.9100112,96.088258 26.740157,103.06715 57.447261,103.06715   C 88.080903,103.06715 112.91105,96.088258 112.91105,87.493208  "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path16"
+     d="  M 97.043264,126.42805   C 94.692481,126.42805 93.076317,124.88535 93.076317,122.53457   C 93.076317,120.18378 94.692481,118.64108 97.043264,118.64108   C 99.467509,118.64108 101.01021,120.18378 101.01021,122.53457   C 101.01021,124.88535 99.467509,126.42805 97.043264,126.42805   z  M 57.447261,110.85411   C 26.887081,110.85411 1.9100112,103.80177 1.9100112,95.280177   L 1.9100112,126.42805   C 1.9100112,135.0231 26.887081,142.00199 57.447261,142.00199   C 87.933979,142.00199 112.91105,135.0231 112.91105,126.42805   L 112.91105,95.280177   C 112.91105,103.80177 87.933979,110.85411 57.447261,110.85411   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path18"
+     d="  M 97.043264,126.42805   C 94.692481,126.42805 93.076317,124.88535 93.076317,122.53457   C 93.076317,120.18378 94.692481,118.64108 97.043264,118.64108   C 99.467509,118.64108 101.01021,120.18378 101.01021,122.53457   C 101.01021,124.88535 99.467509,126.42805 97.043264,126.42805   z  M 57.447261,110.85411   C 26.887081,110.85411 1.9100112,103.80177 1.9100112,95.280177   L 1.9100112,126.42805   C 1.9100112,135.0231 26.887081,142.00199 57.447261,142.00199   C 87.933979,142.00199 112.91105,135.0231 112.91105,126.42805   L 112.91105,95.280177   C 112.91105,103.80177 87.933979,110.85411 57.447261,110.85411   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path20"
+     d="  M 97.043264,165.3629   C 94.692481,165.3629 93.076317,163.8202 93.076317,161.46941   C 93.076317,159.19209 94.692481,157.57593 97.043264,157.57593   C 99.467509,157.57593 101.01021,159.19209 101.01021,161.46941   C 101.01021,163.8202 99.467509,165.3629 97.043264,165.3629   z  M 57.447261,149.78896   C 26.887081,149.78896 1.9100112,142.81007 1.9100112,134.21502   L 1.9100112,165.3629   C 1.9100112,173.95795 26.887081,181.0103 57.447261,181.0103   C 87.933979,181.0103 112.91105,173.95795 112.91105,165.3629   L 112.91105,134.21502   C 112.91105,142.81007 87.933979,149.78896 57.447261,149.78896   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path22"
+     d="  M 97.043264,165.3629   C 94.692481,165.3629 93.076317,163.8202 93.076317,161.46941   C 93.076317,159.19209 94.692481,157.57593 97.043264,157.57593   C 99.467509,157.57593 101.01021,159.19209 101.01021,161.46941   C 101.01021,163.8202 99.467509,165.3629 97.043264,165.3629   z  M 57.447261,149.78896   C 26.887081,149.78896 1.9100112,142.81007 1.9100112,134.21502   L 1.9100112,165.3629   C 1.9100112,173.95795 26.887081,181.0103 57.447261,181.0103   C 87.933979,181.0103 112.91105,173.95795 112.91105,165.3629   L 112.91105,134.21502   C 112.91105,142.81007 87.933979,149.78896 57.447261,149.78896   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path24"
+     d="  M 97.043264,204.3712   C 94.692481,204.3712 93.076317,202.8285 93.076317,200.47772   C 93.076317,198.12694 94.692481,196.58423 97.043264,196.58423   C 99.467509,196.58423 101.01021,198.12694 101.01021,200.47772   C 101.01021,202.8285 99.467509,204.3712 97.043264,204.3712   z  M 57.447261,188.79727   C 26.887081,188.79727 1.9100112,181.74492 1.9100112,173.22333   L 1.9100112,204.3712   C 1.9100112,212.96625 26.887081,219.94514 57.447261,219.94514   C 87.933979,219.94514 112.91105,212.96625 112.91105,204.3712   L 112.91105,173.22333   C 112.91105,181.74492 87.933979,188.79727 57.447261,188.79727   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path26"
+     d="  M 97.043264,204.3712   C 94.692481,204.3712 93.076317,202.8285 93.076317,200.47772   C 93.076317,198.12694 94.692481,196.58423 97.043264,196.58423   C 99.467509,196.58423 101.01021,198.12694 101.01021,200.47772   C 101.01021,202.8285 99.467509,204.3712 97.043264,204.3712   z  M 57.447261,188.79727   C 26.887081,188.79727 1.9100112,181.74492 1.9100112,173.22333   L 1.9100112,204.3712   C 1.9100112,212.96625 26.887081,219.94514 57.447261,219.94514   C 87.933979,219.94514 112.91105,212.96625 112.91105,204.3712   L 112.91105,173.22333   C 112.91105,181.74492 87.933979,188.79727 57.447261,188.79727   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path28"
+     d="  M 801.54357,50.394912   L 801.54357,245.21606   L 1125.8047,245.21606   L 1125.8047,50.394912   L 801.54357,50.394912   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path30"
+     d="  M 801.54357,245.21606   L 1125.8047,245.21606   L 1125.8047,50.394912   L 801.54357,50.394912   L 801.54357,245.21606   z "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#000000;stroke-width:6.2442675px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path32"
+     d="  M 112.91105,143.98546   L 218.4759,143.98546  "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path34"
+     d="  M 481.98399,135.31695   L 489.25673,130.90923   L 497.26408,126.79536   L 501.52488,124.88535   C 502.2595,124.51804 503.2145,124.88535 503.58181,125.69343   C 503.94912,126.42805 503.58181,127.38306 502.77373,127.75037   L 498.65986,129.58692   L 490.94635,133.62733   L 483.67362,138.03504   L 483.67362,138.03504   C 482.86554,138.47582 481.91053,138.25543 481.46976,137.52081   C 481.02899,136.71273 481.24937,135.75772 481.98399,135.31695   z  M 516.14381,119.00839   L 524.15116,116.2903   L 533.92161,113.35182   L 537.30086,112.54374   C 538.10894,112.39682 538.99048,112.91105 539.21087,113.71913   C 539.35779,114.60067 538.84356,115.40876 538.03548,115.62914   L 534.87661,116.36376   L 525.10617,119.30224   L 517.17228,121.94687   C 516.36419,122.24072 515.48265,121.79995 515.1888,120.99187   C 514.89496,120.11032 515.33573,119.22878 516.14381,119.00839   z  M 552.58095,108.9441   L 554.71134,108.50333   L 574.25223,105.271   C 575.13377,105.12408 575.94185,105.71178 576.08878,106.51986   C 576.2357,107.4014 575.64801,108.20948 574.76646,108.35641   L 555.3725,111.51527   L 553.2421,112.02951   C 552.43402,112.24989 551.55248,111.73566 551.40556,110.85411   C 551.18517,110.04603 551.6994,109.16449 552.58095,108.9441   z  M 589.89963,103.43446   L 599.37622,102.40599   L 611.86476,101.74483   C 612.7463,101.67137 613.48092,102.33253 613.55438,103.21407   C 613.55438,104.09561 612.89322,104.83023 612.08514,104.90369   L 599.74353,105.56485   L 590.26694,106.51986   C 589.38539,106.66678 588.65077,106.00562 588.50385,105.12408   C 588.43039,104.316 589.09155,103.50792 589.89963,103.43446   z  M 627.65908,101.15713   L 646.24496,101.2306   L 649.62421,101.45098   C 650.50575,101.45098 651.16691,102.1856 651.09345,103.06715   C 651.09345,103.94869 650.35883,104.60985 649.47729,104.53638   L 646.1715,104.38946   L 627.58562,104.316   C 626.77754,104.316 626.04292,103.58138 626.04292,102.7733   C 626.04292,101.89175 626.77754,101.15713 627.65908,101.15713   z  M 665.27161,102.25906   L 669.60587,102.47945   L 687.23674,104.38946   C 688.04482,104.53638 688.70598,105.271 688.55906,106.15255   C 688.48559,107.03409 687.75097,107.62179 686.86943,107.54833   L 669.38548,105.63831   L 665.12469,105.41793   C 664.24314,105.34447 663.58198,104.60985 663.65545,103.7283   C 663.65545,102.84676 664.46353,102.1856 665.27161,102.25906   z  M 702.81068,106.74024   L 714.71152,108.72372   L 724.4085,111.0745   C 725.21658,111.29489 725.73081,112.10297 725.58389,112.98451   C 725.3635,113.79259 724.48196,114.30683 723.67388,114.08644   L 714.19728,111.88258   L 702.29644,109.82565   C 701.4149,109.67872 700.8272,108.87064 700.97413,107.9891   C 701.12105,107.18102 701.92913,106.59332 702.81068,106.74024   z  M 739.68859,114.89452   L 745.78593,116.73107   L 755.40945,120.03686   L 760.55179,122.0938   L 760.55179,122.0938   C 761.35987,122.38764 761.72718,123.26919 761.43333,124.07727   C 761.13948,124.88535 760.18448,125.32612 759.3764,124.95881   L 754.38098,123.0488   L 744.90439,119.74301   L 738.80704,117.90646   C 737.9255,117.68608 737.48473,116.80453 737.70511,115.99645   C 737.99896,115.18837 738.80704,114.67414 739.68859,114.89452   z  M 775.0238,128.48499   L 781.48845,131.79078   L 789.12849,136.41888   L 793.97698,139.79813   L 793.97698,139.79813   C 794.7116,140.31236 794.85853,141.26737 794.41776,142.00199   C 793.90352,142.73661 792.87505,142.88353 792.2139,142.3693   L 787.51233,139.13697   L 780.09267,134.58233   L 773.55456,131.27654   C 772.81994,130.90923 772.52609,129.95423 772.8934,129.14615   C 773.26071,128.41153 774.21571,128.11768 775.0238,128.48499   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:0.073461972px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path36"
+     d="  M 488.37518,141.34083   L 472.80125,143.98546   L 480.00052,129.88076   L 488.37518,141.34083   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path38"
+     d="  M 582.77382,89.403219   L 582.77382,115.77607   L 692.74639,115.77607   L 692.74639,89.403219   L 582.77382,89.403219   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text44"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,583.319186,109.737514)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan42"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan40"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">GET </tspan></tspan></text>
+  <text
+     id="text50"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,631.453277,109.737514)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan48"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan46"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запрос</tspan></tspan></text>
+  <text
+     id="text56"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,324.623787,31.002871)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan54"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan52"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Сервер</tspan></tspan></text>
+  <text
+     id="text62"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,930.023891,33.100680)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan60"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan58"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Клиент</tspan></tspan></text>
+  <path
+     id="path64"
+     d="  M 792.50774,156.69438   L 784.50039,161.61634   L 775.75841,166.09752   L 773.04032,167.34637   C 772.3057,167.64022 771.3507,167.27291 770.98339,166.46483   C 770.68954,165.73021 771.05685,164.7752 771.79147,164.40789   L 774.36264,163.37942   L 782.81076,158.89824   L 790.81812,153.97629   C 791.55274,153.53552 792.50774,153.75591 793.02198,154.49053   C 793.46275,155.22514 793.24236,156.18015 792.50774,156.69438   z  M 758.42139,173.14987   L 756.87869,173.73756   L 746.74094,176.96989   L 737.26434,179.39413   C 736.45626,179.61452 735.57472,179.10029 735.35433,178.2922   C 735.13394,177.41066 735.64818,176.60258 736.45626,176.38219   L 745.78593,173.95795   L 755.77676,170.79908   L 757.39292,170.21139   C 758.201,169.91754 759.08255,170.35831 759.3764,171.16639   C 759.67024,171.97447 759.30293,172.85602 758.42139,173.14987   z  M 721.76387,182.47954   L 714.12382,183.94878   L 700.01912,185.6384   L 700.01912,185.6384   C 699.13758,185.78532 698.3295,185.12417 698.25604,184.24262   C 698.10911,183.43454 698.77027,182.62646 699.57835,182.553   L 713.46266,180.93683   L 721.17617,179.39413   C 722.05771,179.24721 722.8658,179.76144 723.01272,180.64299   C 723.23311,181.52453 722.64541,182.33261 721.76387,182.47954   z  M 684.29826,187.10764   L 667.18162,188.13611   L 662.25967,188.13611   C 661.45159,188.13611 660.71697,187.40149 660.71697,186.51994   C 660.71697,185.71186 661.45159,184.97724 662.25967,184.97724   L 666.96124,184.97724   L 684.07787,183.94878   C 684.95942,183.94878 685.69404,184.60993 685.7675,185.41802   C 685.84096,186.29956 685.1798,187.03418 684.29826,187.10764   z  M 646.61227,188.13611   L 643.01263,188.13611   L 624.64714,187.25456   C 623.7656,187.1811 623.10444,186.44648 623.10444,185.56494   C 623.1779,184.6834 623.91252,184.02224 624.79406,184.0957   L 643.01263,184.97724   L 646.61227,184.97724   C 647.49381,184.97724 648.15497,185.71186 648.15497,186.51994   C 648.15497,187.40149 647.49381,188.13611 646.61227,188.13611   z  M 608.92628,186.00571   L 595.26235,184.6834   L 587.03461,183.43454   C 586.22653,183.36108 585.63883,182.553 585.7123,181.67145   C 585.85922,180.86337 586.6673,180.27568 587.54884,180.34914   L 595.62966,181.52453   L 609.22013,182.84685   C 610.10167,182.92031 610.68937,183.72839 610.6159,184.53647   C 610.54244,185.41802 609.80782,186.07917 608.92628,186.00571   z  M 571.46067,181.15722   L 550.67094,177.04335   L 549.93632,176.89643   C 549.05477,176.67604 548.54054,175.86796 548.76092,174.98642   C 548.90785,174.17833 549.78939,173.6641 550.59747,173.81102   L 551.33209,174.03141   L 572.12183,178.07182   C 572.92991,178.21874 573.51761,179.10029 573.29722,179.90837   C 573.1503,180.78991 572.34222,181.30414 571.46067,181.15722   z  M 534.65623,173.0764   L 530.46889,171.97447   L 520.9923,169.18292   L 513.57264,166.68521   C 512.76456,166.39136 512.32379,165.50982 512.61763,164.70174   C 512.83802,163.89366 513.71956,163.45289 514.52765,163.74673   L 521.9473,166.17098   L 531.27697,168.96253   L 535.46431,170.06446   C 536.27239,170.28485 536.78662,171.16639 536.56624,171.97447   C 536.34585,172.85602 535.46431,173.29679 534.65623,173.0764   z  M 498.88025,160.95518   L 496.01523,159.70633   L 488.88942,156.32707   L 482.42476,152.72744   L 479.19244,150.6705   C 478.45782,150.22973 478.31089,149.20126 478.75167,148.46664   C 479.19244,147.80549 480.22091,147.5851 480.88206,148.02587   L 483.96747,150.00934   L 490.2852,153.46206   L 497.26408,156.84131   L 500.1291,158.09016   L 500.1291,158.09016   C 500.86372,158.38401 501.23103,159.33902 500.93718,160.1471   C 500.56987,160.88172 499.61487,161.24903 498.88025,160.95518   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:0.073461972px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path66"
+     d="  M 785.96963,150.74396   L 801.54357,147.80549   L 794.49122,162.05711   L 785.96963,150.74396   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path68"
+     d="  M 583.21459,173.22333   L 583.21459,199.52271   L 691.42407,199.52271   L 691.42407,173.22333   L 583.21459,173.22333   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text74"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,583.798374,193.504230)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan72"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan70"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">JSON </tspan></tspan></text>
+  <text
+     id="text80"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,641.712987,193.504230)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan78"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan76"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">ответ</tspan></tspan></text>
+  <path
+     id="path82"
+     d="  M 218.4759,46.57489   L 218.4759,241.39604   L 303.98564,241.39604   L 303.98564,46.57489   L 218.4759,46.57489   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path84"
+     d="  M 218.4759,241.39604   L 303.98564,241.39604   L 303.98564,46.57489   L 218.4759,46.57489   L 218.4759,241.39604   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text90"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,225.512468,130.446311)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan88"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan86"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Провайдер </tspan></tspan></text>
+  <text
+     id="text96"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,224.444544,149.252719)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan94"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan92"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">хранилища </tspan></tspan></text>
+  <text
+     id="text102"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,236.726754,168.059127)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan100"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan98"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">данных</tspan></tspan></text>
+  <path
+     id="path104"
+     d="  M 388.39344,46.57489   L 388.39344,241.39604   L 473.90318,241.39604   L 473.90318,46.57489   L 388.39344,46.57489   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path106"
+     d="  M 388.39344,241.39604   L 473.90318,241.39604   L 473.90318,46.57489   L 388.39344,46.57489   L 388.39344,241.39604   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text112"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,393.143575,102.236914)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan110"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan108"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Первичный </tspan></tspan></text>
+  <text
+     id="text118"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,393.112584,121.043322)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan116"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan114"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработчик </tspan></tspan></text>
+  <text
+     id="text124"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,401.985699,139.849730)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan122"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan120"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запросов </tspan></tspan></text>
+  <text
+     id="text130"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,395.389187,158.656138)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan128"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan126"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">(определи</tspan></tspan></text>
+  <text
+     id="text136"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,462.760989,158.656138)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan134"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan132"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text142"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,400.050005,177.462546)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan140"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan138"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">тель типа </tspan></tspan></text>
+  <text
+     id="text148"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,403.516348,196.268954)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan146"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan144"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запроса)</tspan></tspan></text>
+  <path
+     id="path150"
+     d="  M 303.39794,46.57489   L 303.39794,144.13239   L 388.90768,144.13239   L 388.90768,46.57489   L 303.39794,46.57489   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path152"
+     d="  M 303.39794,144.13239   L 388.90768,144.13239   L 388.90768,46.57489   L 303.39794,46.57489   L 303.39794,144.13239   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text158"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,310.458397,72.398736)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan156"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan154"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Валидация </tspan></tspan></text>
+  <text
+     id="text164"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,342.529712,91.205144)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan162"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan160"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">и</tspan></tspan></text>
+  <text
+     id="text170"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,312.807745,110.011122)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan168"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan166"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработка </tspan></tspan></text>
+  <text
+     id="text176"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,331.491477,128.817530)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan174"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan172"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">GET</tspan></tspan></text>
+  <path
+     id="path178"
+     d="  M 303.39794,143.39777   L 303.39794,240.95527   L 388.90768,240.95527   L 388.90768,143.39777   L 303.39794,143.39777   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path180"
+     d="  M 303.39794,240.95527   L 388.90768,240.95527   L 388.90768,143.39777   L 303.39794,143.39777   L 303.39794,240.95527   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text186"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,310.474215,169.243612)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan184"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan182"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Валидация </tspan></tspan></text>
+  <text
+     id="text192"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,342.545531,188.050020)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan190"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan188"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">и</tspan></tspan></text>
+  <text
+     id="text198"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,312.823563,206.855997)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan196"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan194"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработка </tspan></tspan></text>
+  <text
+     id="text204"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,327.577798,225.662405)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan202"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan200"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">POST</tspan></tspan></text>
+  <path
+     id="path206"
+     d="  M 801.54357,50.394912   L 801.54357,147.80549   L 903.72917,147.80549   L 903.72917,50.394912   L 801.54357,50.394912   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path208"
+     d="  M 801.54357,147.80549   L 903.72917,147.80549   L 903.72917,50.394912   L 801.54357,50.394912   L 801.54357,147.80549   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text214"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,807.580362,94.022445)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan212"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan210"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Реализация </tspan></tspan></text>
+  <text
+     id="text220"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,834.881097,116.590049)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan218"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan216"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">GET</tspan></tspan></text>
+  <path
+     id="path222"
+     d="  M 801.54357,147.80549   L 801.54357,245.21606   L 903.72917,245.21606   L 903.72917,147.80549   L 801.54357,147.80549   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path224"
+     d="  M 801.54357,245.21606   L 903.72917,245.21606   L 903.72917,147.80549   L 801.54357,147.80549   L 801.54357,245.21606   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text230"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,807.580433,191.447313)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan228"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan226"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Реализация </tspan></tspan></text>
+  <text
+     id="text236"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,830.165685,214.014917)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan234"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan232"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">POST</tspan></tspan></text>
+  <path
+     id="path238"
+     d="  M 948.1002,245.21606   L 948.1002,50.394912   L 903.72917,50.394912   L 903.72917,245.21606   L 948.1002,245.21606   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path240"
+     d="  M 948.1002,245.21606   L 948.1002,50.394912   L 903.72917,50.394912   L 903.72917,245.21606   L 948.1002,245.21606   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text246"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(-0.000000,-1.000000,1.000000,-0.000000,932.101703,212.748200)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan244"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan242"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Сетевой модуль</tspan></tspan></text>
+  <path
+     id="path248"
+     d="  M 948.1002,50.394912   L 948.1002,245.21606   L 1036.9892,245.21606   L 1036.9892,50.394912   L 948.1002,50.394912   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path250"
+     d="  M 948.1002,245.21606   L 1036.9892,245.21606   L 1036.9892,50.394912   L 948.1002,50.394912   L 948.1002,245.21606   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text256"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,955.956039,131.451041)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan254"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan252"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Контекст</tspan></tspan></text>
+  <text
+     id="text262"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,966.915503,154.018654)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan260"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan258"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">интер</tspan></tspan></text>
+  <text
+     id="text268"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1013.013607,154.018654)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan266"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan264"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text274"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,969.449941,176.586258)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan272"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan270"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">фейса</tspan></tspan></text>
+  <path
+     id="path276"
+     d="  M 1036.9892,50.394912   L 1036.9892,245.21606   L 1125.8047,245.21606   L 1125.8047,50.394912   L 1036.9892,50.394912   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path278"
+     d="  M 1036.9892,245.21606   L 1125.8047,245.21606   L 1125.8047,50.394912   L 1036.9892,50.394912   L 1036.9892,245.21606   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text284"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1054.005746,120.167024)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan282"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan280"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Интер</tspan></tspan></text>
+  <text
+     id="text290"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1103.620555,120.167024)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan288"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan286"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text296"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1062.472094,142.734637)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan294"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan292"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">фейс </tspan></tspan></text>
+  <text
+     id="text302"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1043.069095,165.302241)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan300"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan298"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">пользова</tspan></tspan></text>
+  <text
+     id="text308"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1114.557636,165.302241)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan306"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan304"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text314"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1064.644101,187.869844)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan312"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan310"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">теля</tspan></tspan></text>
+  <path
+     id="path316"
+     d="  M 218.4759,313.09492   L 218.4759,507.98953   L 472.80125,507.98953   L 472.80125,313.09492   L 218.4759,313.09492   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path318"
+     d="  M 218.4759,507.98953   L 472.80125,507.98953   L 472.80125,313.09492   L 218.4759,313.09492   L 218.4759,507.98953   z "
+     style="fill:none;stroke:#000000;stroke-width:6.2442675px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path320"
+     d="  M 112.91105,354.01324   C 112.91105,345.41819 88.080903,338.4393 57.447261,338.4393   C 26.740157,338.4393 1.9100112,345.41819 1.9100112,354.01324   C 1.9100112,362.60829 26.740157,369.58718 57.447261,369.58718   C 88.080903,369.58718 112.91105,362.60829 112.91105,354.01324   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path322"
+     d="  M 112.91105,354.01324   C 112.91105,345.41819 88.080903,338.4393 57.447261,338.4393   C 26.740157,338.4393 1.9100112,345.41819 1.9100112,354.01324   C 1.9100112,362.60829 26.740157,369.58718 57.447261,369.58718   C 88.080903,369.58718 112.91105,362.60829 112.91105,354.01324  "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path324"
+     d="  M 97.043264,392.94808   C 94.692481,392.94808 93.076317,391.40538 93.076317,389.0546   C 93.076317,386.70382 94.692481,385.16111 97.043264,385.16111   C 99.467509,385.16111 101.01021,386.70382 101.01021,389.0546   C 101.01021,391.40538 99.467509,392.94808 97.043264,392.94808   z  M 57.447261,377.37415   C 26.887081,377.37415 1.9100112,370.39526 1.9100112,361.80021   L 1.9100112,392.94808   C 1.9100112,401.54313 26.887081,408.59548 57.447261,408.59548   C 87.933979,408.59548 112.91105,401.54313 112.91105,392.94808   L 112.91105,361.80021   C 112.91105,370.39526 87.933979,377.37415 57.447261,377.37415   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path326"
+     d="  M 97.043264,392.94808   C 94.692481,392.94808 93.076317,391.40538 93.076317,389.0546   C 93.076317,386.70382 94.692481,385.16111 97.043264,385.16111   C 99.467509,385.16111 101.01021,386.70382 101.01021,389.0546   C 101.01021,391.40538 99.467509,392.94808 97.043264,392.94808   z  M 57.447261,377.37415   C 26.887081,377.37415 1.9100112,370.39526 1.9100112,361.80021   L 1.9100112,392.94808   C 1.9100112,401.54313 26.887081,408.59548 57.447261,408.59548   C 87.933979,408.59548 112.91105,401.54313 112.91105,392.94808   L 112.91105,361.80021   C 112.91105,370.39526 87.933979,377.37415 57.447261,377.37415   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path328"
+     d="  M 97.043264,431.95639   C 94.692481,431.95639 93.076317,430.41369 93.076317,428.06291   C 93.076317,425.71212 94.692481,424.16942 97.043264,424.16942   C 99.467509,424.16942 101.01021,425.71212 101.01021,428.06291   C 101.01021,430.41369 99.467509,431.95639 97.043264,431.95639   z  M 57.447261,416.38245   C 26.887081,416.38245 1.9100112,409.3301 1.9100112,400.73505   L 1.9100112,431.95639   C 1.9100112,440.47798 26.887081,447.53033 57.447261,447.53033   C 87.933979,447.53033 112.91105,440.47798 112.91105,431.95639   L 112.91105,400.73505   C 112.91105,409.3301 87.933979,416.38245 57.447261,416.38245   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path330"
+     d="  M 97.043264,431.95639   C 94.692481,431.95639 93.076317,430.41369 93.076317,428.06291   C 93.076317,425.71212 94.692481,424.16942 97.043264,424.16942   C 99.467509,424.16942 101.01021,425.71212 101.01021,428.06291   C 101.01021,430.41369 99.467509,431.95639 97.043264,431.95639   z  M 57.447261,416.38245   C 26.887081,416.38245 1.9100112,409.3301 1.9100112,400.73505   L 1.9100112,431.95639   C 1.9100112,440.47798 26.887081,447.53033 57.447261,447.53033   C 87.933979,447.53033 112.91105,440.47798 112.91105,431.95639   L 112.91105,400.73505   C 112.91105,409.3301 87.933979,416.38245 57.447261,416.38245   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path332"
+     d="  M 97.043264,470.89123   C 94.692481,470.89123 93.076317,469.34853 93.076317,466.99775   C 93.076317,464.64697 94.692481,463.10427 97.043264,463.10427   C 99.467509,463.10427 101.01021,464.64697 101.01021,466.99775   C 101.01021,469.34853 99.467509,470.89123 97.043264,470.89123   z  M 57.447261,455.3173   C 26.887081,455.3173 1.9100112,448.33841 1.9100112,439.74336   L 1.9100112,470.89123   C 1.9100112,479.48629 26.887081,486.46517 57.447261,486.46517   C 87.933979,486.46517 112.91105,479.48629 112.91105,470.89123   L 112.91105,439.74336   C 112.91105,448.33841 87.933979,455.3173 57.447261,455.3173   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path334"
+     d="  M 97.043264,470.89123   C 94.692481,470.89123 93.076317,469.34853 93.076317,466.99775   C 93.076317,464.64697 94.692481,463.10427 97.043264,463.10427   C 99.467509,463.10427 101.01021,464.64697 101.01021,466.99775   C 101.01021,469.34853 99.467509,470.89123 97.043264,470.89123   z  M 57.447261,455.3173   C 26.887081,455.3173 1.9100112,448.33841 1.9100112,439.74336   L 1.9100112,470.89123   C 1.9100112,479.48629 26.887081,486.46517 57.447261,486.46517   C 87.933979,486.46517 112.91105,479.48629 112.91105,470.89123   L 112.91105,439.74336   C 112.91105,448.33841 87.933979,455.3173 57.447261,455.3173   z "
+     style="fill:none;stroke:#000000;stroke-width:0.36730987px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path336"
+     d="  M 801.54357,316.91494   L 801.54357,511.80955   L 1125.8047,511.80955   L 1125.8047,316.91494   L 801.54357,316.91494   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path338"
+     d="  M 801.54357,511.80955   L 1125.8047,511.80955   L 1125.8047,316.91494   L 801.54357,316.91494   L 801.54357,511.80955   z "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#000000;stroke-width:6.2442675px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path340"
+     d="  M 112.91105,410.57896   L 218.4759,410.57896  "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path342"
+     d="  M 481.98399,401.83698   L 489.25673,397.42926   L 497.26408,393.31539   L 501.52488,391.40538   C 502.2595,391.03807 503.2145,391.40538 503.58181,392.21346   C 503.94912,392.94808 503.58181,393.90309 502.77373,394.2704   L 498.65986,396.10695   L 490.94635,400.14736   L 483.67362,404.55507   L 483.67362,404.55507   C 482.86554,404.99585 481.91053,404.77546 481.46976,404.04084   C 481.02899,403.23276 481.24937,402.27775 481.98399,401.83698   z  M 516.14381,385.52842   L 524.15116,382.81033   L 533.92161,379.87185   L 537.30086,379.06377   C 538.10894,378.91685 538.99048,379.43108 539.21087,380.23916   C 539.35779,381.12071 538.84356,381.92879 538.03548,382.14917   L 534.87661,382.88379   L 525.10617,385.82227   L 517.17228,388.4669   C 516.36419,388.76075 515.48265,388.31998 515.1888,387.5119   C 514.89496,386.63035 515.33573,385.74881 516.14381,385.52842   z  M 552.58095,375.46413   L 554.71134,375.02336   L 574.25223,371.79104   C 575.13377,371.64411 575.94185,372.23181 576.08878,373.03989   C 576.2357,373.92143 575.64801,374.72951 574.76646,374.87644   L 555.3725,378.0353   L 553.2421,378.54954   C 552.43402,378.76992 551.55248,378.25569 551.40556,377.37415   C 551.18517,376.56606 551.6994,375.68452 552.58095,375.46413   z  M 589.89963,369.95449   L 599.37622,368.92602   L 611.86476,368.33832   C 612.7463,368.26486 613.48092,368.92602 613.55438,369.80756   C 613.55438,370.68911 612.89322,371.42373 612.01168,371.42373   L 599.74353,372.08488   L 590.26694,373.03989   C 589.38539,373.18681 588.65077,372.52566 588.50385,371.64411   C 588.43039,370.83603 589.09155,370.02795 589.89963,369.95449   z  M 627.65908,367.75063   L 646.1715,367.75063   L 649.62421,367.97101   C 650.50575,367.97101 651.16691,368.70563 651.09345,369.58718   C 651.09345,370.46872 650.35883,371.12988 649.47729,371.05642   L 646.1715,370.90949   L 627.65908,370.90949   C 626.77754,370.90949 626.04292,370.17487 626.04292,369.29333   C 626.04292,368.48525 626.77754,367.75063 627.65908,367.75063   z  M 665.27161,368.77909   L 669.60587,368.99948   L 687.23674,370.90949   C 688.04482,371.05642 688.70598,371.79104 688.63252,372.67258   C 688.48559,373.55412 687.75097,374.14182 686.86943,374.06836   L 669.38548,372.15835   L 665.12469,371.93796   C 664.24314,371.8645 663.58198,371.12988 663.65545,370.24833   C 663.72891,369.36679 664.46353,368.70563 665.27161,368.77909   z  M 702.81068,373.26028   L 714.71152,375.24375   L 724.4085,377.59453   C 725.21658,377.81492 725.73081,378.623 725.58389,379.50454   C 725.3635,380.31262 724.48196,380.82686 723.67388,380.60647   L 714.19728,378.32915   L 702.29644,376.34568   C 701.4149,376.19875 700.8272,375.39067 700.97413,374.50913   C 701.12105,373.70105 701.92913,373.11335 702.81068,373.26028   z  M 739.68859,381.48802   L 745.85939,383.32457   L 755.40945,386.63035   L 760.55179,388.61383   C 761.35987,388.90768 761.72718,389.86268 761.43333,390.67076   C 761.13948,391.47884 760.18448,391.84615 759.3764,391.55231   L 754.38098,389.64229   L 744.90439,386.33651   L 738.73358,384.49996   C 737.9255,384.20611 737.48473,383.32457 737.70511,382.51648   C 737.99896,381.7084 738.88051,381.19417 739.68859,381.48802   z  M 774.95033,395.07848   L 781.48845,398.38427   L 789.12849,403.01237   L 793.97698,406.39162   C 794.7116,406.90586 794.85853,407.86086 794.34429,408.59548   C 793.90352,409.3301 792.87505,409.47703 792.2139,408.96279   L 787.51233,405.73047   L 780.09267,401.17582   L 773.55456,397.87004   L 773.55456,397.87004   C 772.81994,397.50273 772.45263,396.54772 772.8934,395.73964   C 773.26071,395.00502 774.21571,394.71117 774.95033,395.07848   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:0.073461972px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path344"
+     d="  M 488.37518,407.86086   L 472.80125,410.57896   L 480.00052,396.47426   L 488.37518,407.86086   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path346"
+     d="  M 548.32015,355.99671   L 548.32015,382.2961   L 727.20005,382.2961   L 727.20005,355.99671   L 548.32015,355.99671   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text352"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,548.860858,376.283013)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan350"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan348"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">JSON</tspan></tspan></text>
+  <text
+     id="text358"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,601.290323,376.283013)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan356"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan354"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000" /></tspan></text>
+  <text
+     id="text364"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,606.775435,376.283013)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan362"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan360"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">POST </tspan></tspan></text>
+  <text
+     id="text370"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,665.911605,376.283013)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan368"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan366"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запрос</tspan></tspan></text>
+  <text
+     id="text376"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,324.623787,297.548352)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan374"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan372"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Сервер</tspan></tspan></text>
+  <text
+     id="text382"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,930.023891,299.646143)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan380"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan378"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Клиент</tspan></tspan></text>
+  <path
+     id="path384"
+     d="  M 792.50774,423.21442   L 784.50039,428.13637   L 775.75841,432.61755   L 773.11378,433.8664   C 772.3057,434.16025 771.3507,433.8664 771.05685,433.05832   C 770.68954,432.25024 771.05685,431.29523 771.79147,431.00138   L 774.36264,429.89945   L 782.81076,425.41827   L 790.81812,420.49632   C 791.55274,420.05555 792.50774,420.27594 793.02198,421.01056   C 793.46275,421.74518 793.24236,422.70018 792.50774,423.21442   z  M 758.42139,439.74336   L 756.87869,440.25759   L 746.74094,443.48992   L 737.26434,445.91416   C 736.45626,446.13455 735.57472,445.62032 735.35433,444.81224   C 735.13394,443.93069 735.64818,443.12261 736.45626,442.90222   L 745.78593,440.47798   L 755.77676,437.31911   L 757.39292,436.80488   C 758.201,436.43757 759.08255,436.87834 759.3764,437.68642   C 759.67024,438.49451 759.30293,439.44951 758.42139,439.74336   z  M 721.83733,448.99957   L 714.12382,450.46881   L 700.01912,452.23189   C 699.13758,452.30536 698.3295,451.71766 698.25604,450.83612   C 698.18257,449.95457 698.77027,449.21995 699.65181,449.07303   L 713.46266,447.45687   L 721.17617,445.91416   C 722.05771,445.76724 722.8658,446.28147 723.01272,447.16302   C 723.23311,448.04456 722.64541,448.85264 721.83733,448.99957   z  M 684.29826,453.70113   L 667.18162,454.65614   L 662.33313,454.65614   C 661.45159,454.65614 660.71697,453.99498 660.71697,453.11344   C 660.71697,452.23189 661.45159,451.49727 662.25967,451.49727   L 666.96124,451.49727   L 684.15134,450.54227   C 684.95942,450.54227 685.69404,451.20343 685.7675,452.01151   C 685.84096,452.89305 685.1798,453.62767 684.29826,453.70113   z  M 646.61227,454.7296   L 643.0861,454.7296   L 624.64714,453.7746   L 624.64714,453.7746   C 623.7656,453.70113 623.10444,452.96651 623.1779,452.08497   C 623.1779,451.27689 623.91252,450.61573 624.79406,450.61573   L 643.01263,451.57074   L 646.61227,451.57074   C 647.49381,451.57074 648.15497,452.23189 648.22843,453.11344   C 648.22843,453.99498 647.49381,454.7296 646.61227,454.7296   z  M 608.92628,452.52574   L 595.26235,451.20343   L 587.10807,449.95457   C 586.22653,449.88111 585.63883,449.07303 585.78576,448.19149   C 585.85922,447.3834 586.6673,446.79571 587.54884,446.86917   L 595.62966,448.04456   L 609.22013,449.36688   C 610.10167,449.44034 610.76283,450.24842 610.68937,451.0565   C 610.54244,451.93805 609.80782,452.5992 608.92628,452.52574   z  M 571.46067,447.67725   L 550.67094,443.56338   L 549.93632,443.41646   C 549.05477,443.19607 548.54054,442.38799 548.76092,441.50645   C 548.98131,440.69836 549.78939,440.18413 550.67094,440.33105   L 551.33209,440.55144   L 572.12183,444.59185   C 572.92991,444.73877 573.51761,445.62032 573.37068,446.4284   C 573.1503,447.30994 572.34222,447.82418 571.46067,447.67725   z  M 534.65623,439.6699   L 530.46889,438.56797   L 520.9923,435.77641   L 513.57264,433.20524   C 512.76456,432.9114 512.32379,432.02985 512.61763,431.22177   C 512.91148,430.41369 513.79303,429.97292 514.60111,430.26676   L 521.9473,432.76447   L 531.27697,435.55603   L 535.46431,436.65796   C 536.27239,436.87834 536.78662,437.68642 536.56624,438.56797   C 536.34585,439.37605 535.46431,439.89028 534.65623,439.6699   z  M 498.88025,427.54867   L 496.01523,426.29982   L 488.88942,422.92057   L 482.42476,419.32093   L 479.19244,417.264   C 478.45782,416.74976 478.23743,415.79476 478.75167,415.06014   C 479.19244,414.32552 480.14744,414.17859 480.88206,414.61936   L 483.96747,416.60284   L 490.2852,420.05555   L 497.26408,423.4348   L 500.1291,424.68365   L 500.1291,424.68365   C 500.86372,424.9775 501.23103,425.93251 500.93718,426.74059   C 500.56987,427.47521 499.61487,427.84252 498.88025,427.54867   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:0.073461972px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path386"
+     d="  M 785.96963,417.264   L 801.54357,414.39898   L 794.49122,428.57714   L 785.96963,417.264   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path388"
+     d="  M 510.78109,454.21537   L 510.78109,480.51475   L 781.26806,480.51475   L 781.26806,454.21537   L 510.78109,454.21537   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text394"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,511.366126,474.505219)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan392"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan390"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">код успешности выполнения</tspan></tspan></text>
+  <path
+     id="path396"
+     d="  M 218.4759,313.09492   L 218.4759,507.98953   L 303.98564,507.98953   L 303.98564,313.09492   L 218.4759,313.09492   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path398"
+     d="  M 218.4759,507.98953   L 303.98564,507.98953   L 303.98564,313.09492   L 218.4759,313.09492   L 218.4759,507.98953   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text404"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,225.512468,396.991792)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan402"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan400"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Провайдер </tspan></tspan></text>
+  <text
+     id="text410"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,224.444544,415.798200)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan408"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan406"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">хранилища </tspan></tspan></text>
+  <text
+     id="text416"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,236.726754,434.604608)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan414"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan412"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">данных</tspan></tspan></text>
+  <path
+     id="path418"
+     d="  M 388.39344,313.09492   L 388.39344,507.98953   L 473.90318,507.98953   L 473.90318,313.09492   L 388.39344,313.09492   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path420"
+     d="  M 388.39344,507.98953   L 473.90318,507.98953   L 473.90318,313.09492   L 388.39344,313.09492   L 388.39344,507.98953   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text426"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,393.143575,368.782395)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan424"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan422"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Первичный </tspan></tspan></text>
+  <text
+     id="text432"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,393.112584,387.588803)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan430"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan428"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработчик </tspan></tspan></text>
+  <text
+     id="text438"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,401.985699,406.395211)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan436"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan434"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запросов </tspan></tspan></text>
+  <text
+     id="text444"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,395.389187,425.201619)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan442"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan440"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">(определи</tspan></tspan></text>
+  <text
+     id="text450"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,462.760989,425.201619)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan448"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan446"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text456"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,400.050005,444.008027)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan454"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan452"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">тель типа </tspan></tspan></text>
+  <text
+     id="text462"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,403.516348,462.814435)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan460"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan458"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">запроса)</tspan></tspan></text>
+  <path
+     id="path464"
+     d="  M 303.39794,313.09492   L 303.39794,410.65242   L 388.90768,410.65242   L 388.90768,313.09492   L 303.39794,313.09492   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path466"
+     d="  M 303.39794,410.65242   L 388.90768,410.65242   L 388.90768,313.09492   L 303.39794,313.09492   L 303.39794,410.65242   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text472"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,310.458397,338.944244)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan470"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan468"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Валидация </tspan></tspan></text>
+  <text
+     id="text478"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,342.529712,357.750652)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan476"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan474"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">и</tspan></tspan></text>
+  <text
+     id="text484"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,312.807745,376.556630)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan482"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan480"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработка </tspan></tspan></text>
+  <text
+     id="text490"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,331.491477,395.363038)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan488"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan486"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">GET</tspan></tspan></text>
+  <path
+     id="path492"
+     d="  M 303.39794,409.99126   L 303.39794,507.54876   L 388.90768,507.54876   L 388.90768,409.99126   L 303.39794,409.99126   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path494"
+     d="  M 303.39794,507.54876   L 388.90768,507.54876   L 388.90768,409.99126   L 303.39794,409.99126   L 303.39794,507.54876   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text500"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,310.474215,435.789075)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan498"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan496"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Валидация </tspan></tspan></text>
+  <text
+     id="text506"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,342.545531,454.595483)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan504"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan502"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">и</tspan></tspan></text>
+  <text
+     id="text512"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,312.823563,473.401460)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan510"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan508"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">обработка </tspan></tspan></text>
+  <text
+     id="text518"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,327.577798,492.207869)"
+     style="font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan516"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan514"
+         style="fill:#000000;font-size:15.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">POST</tspan></tspan></text>
+  <path
+     id="path520"
+     d="  M 801.54357,316.91494   L 801.54357,414.39898   L 903.72917,414.39898   L 903.72917,316.91494   L 801.54357,316.91494   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path522"
+     d="  M 801.54357,414.39898   L 903.72917,414.39898   L 903.72917,316.91494   L 801.54357,316.91494   L 801.54357,414.39898   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text528"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,807.580362,360.567962)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan526"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan524"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Реализация </tspan></tspan></text>
+  <text
+     id="text534"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,834.881097,383.135566)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan532"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan530"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">GET</tspan></tspan></text>
+  <path
+     id="path536"
+     d="  M 801.54357,414.39898   L 801.54357,511.80955   L 903.72917,511.80955   L 903.72917,414.39898   L 801.54357,414.39898   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path538"
+     d="  M 801.54357,511.80955   L 903.72917,511.80955   L 903.72917,414.39898   L 801.54357,414.39898   L 801.54357,511.80955   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text544"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,807.580433,457.992812)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan542"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan540"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Реализация </tspan></tspan></text>
+  <text
+     id="text550"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,830.165685,480.560416)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan548"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan546"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">POST</tspan></tspan></text>
+  <path
+     id="path552"
+     d="  M 948.1002,511.80955   L 948.1002,316.91494   L 903.72917,316.91494   L 903.72917,511.80955   L 948.1002,511.80955   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path554"
+     d="  M 948.1002,511.80955   L 948.1002,316.91494   L 903.72917,316.91494   L 903.72917,511.80955   L 948.1002,511.80955   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text560"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(-0.000000,-1.000000,1.000000,-0.000000,932.101703,479.293699)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan558"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan556"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Сетевой модуль</tspan></tspan></text>
+  <path
+     id="path562"
+     d="  M 948.1002,316.91494   L 948.1002,511.80955   L 1036.9892,511.80955   L 1036.9892,316.91494   L 948.1002,316.91494   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path564"
+     d="  M 948.1002,511.80955   L 1036.9892,511.80955   L 1036.9892,316.91494   L 948.1002,316.91494   L 948.1002,511.80955   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text570"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,955.956039,397.996513)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan568"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan566"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Контекст</tspan></tspan></text>
+  <text
+     id="text576"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,966.915503,420.564153)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan574"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan572"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">интер</tspan></tspan></text>
+  <text
+     id="text582"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1013.013607,420.564153)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan580"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan578"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text588"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,969.449941,443.131757)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan586"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan584"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">фейса</tspan></tspan></text>
+  <path
+     id="path590"
+     d="  M 1036.9892,316.91494   L 1036.9892,511.80955   L 1125.8047,511.80955   L 1125.8047,316.91494   L 1036.9892,316.91494   z "
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path592"
+     d="  M 1036.9892,511.80955   L 1125.8047,511.80955   L 1125.8047,316.91494   L 1036.9892,316.91494   L 1036.9892,511.80955   z "
+     style="fill:none;stroke:#000000;stroke-width:3.1588647px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text598"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1054.005746,386.712496)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan596"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan594"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">Интер</tspan></tspan></text>
+  <text
+     id="text604"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1103.620555,386.712496)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan602"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan600"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text610"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1062.472094,409.280136)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan608"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan606"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">фейс </tspan></tspan></text>
+  <text
+     id="text616"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1043.069095,431.847740)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan614"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan612"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">пользова</tspan></tspan></text>
+  <text
+     id="text622"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1114.557636,431.847740)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan620"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan618"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">-</tspan></tspan></text>
+  <text
+     id="text628"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1064.644101,454.415343)"
+     style="font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan626"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan624"
+         style="fill:#000000;font-size:18.812500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">теля</tspan></tspan></text>
+  <text
+     id="text634"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,8.571955,18.571887)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan632"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan630"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">База данных</tspan></tspan></text>
+  <text
+     id="text640"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,-0.195994,296.561171)"
+     style="font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan638"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan636"
+         style="fill:#000000;font-size:22.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Times New Roman;"
+         dy="0.000000"
+         dx="0.000000">База данных</tspan></tspan></text>
+</svg>
